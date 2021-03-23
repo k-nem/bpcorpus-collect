@@ -1,0 +1,354 @@
+linkId,blText,blHref,otherPersonName,otherPersonHref,workName,workHref
+1,epub,/Kandrat_Krapiva/Miadzviedzicy.epub,,,Мядзведзічы,/Kandrat_Krapiva/Miadzviedzicy.html
+2,djvu,https://files.knihi.com/Knihi/scanned/Krapiva.Brama_nieumirucasci.djvu,,,Брама неўміручасці,/Kandrat_Krapiva/Brama_nieumirucasci_scan.html
+3,epub,/Kandrat_Krapiva/Kaniec_druzby.epub,,,Канец дружбы,/Kandrat_Krapiva/Kaniec_druzby.html
+4,epub,/Kandrat_Krapiva/Partyzany.epub,,,Партызаны,/Kandrat_Krapiva/Partyzany.html
+5,djvu,https://files.knihi.com/Knihi/scanned-hrest/Krapiva.Chto.djvu,,,Хто смяецца апошнім,/Kandrat_Krapiva/Chto_smiajecca_aposnim.html
+6,mp3.zip,https://files.knihi.com/Knihi/audiobooks/Krapiva.Brama_neumirucasci.mp3.zip,,,Брама неўміручасці,/Kandrat_Krapiva/Brama_nieumirucasci_mp3.zip.html
+7,ogg,https://files.knihi.com/Knihi/audio-disk-kurhan/Krapiva.Dzied_i_baba.ogg,,,Дзед і баба,/Kandrat_Krapiva/Dzied_i_baba_audio.html
+8,mp3,https://files.knihi.com/Knihi/radio/K.Krapiva_-_Dyplamavany_baran.mp3,,,Дыпламаваны баран,/Kandrat_Krapiva/Dyplamavany_baran_audio.html
+9,mp3,https://files.knihi.com/Knihi/audio-staroeradio.ru/Krapiva_Kandrat.Chto_smiajecca_aposnim.mp3,,,Хто сьмяецца апошнім,/Kandrat_Krapiva/Chto_smiajecca_aposnim_audio.html
+10,epub,/Kandrat_Krapiva/Ab_bury_i_nacisku_Da_litaraturnych_sprecak_zbor5.epub,,,Аб «буры і націску» (Да літаратурных спрэчак),/Kandrat_Krapiva/Ab_bury_i_nacisku_Da_litaraturnych_sprecak_zbor5.html
+11,epub,/Kandrat_Krapiva/Abraza_zbor5.epub,,,Абраза,/Kandrat_Krapiva/Abraza_zbor5.html
+12,epub,/Kandrat_Krapiva/Ad_pacostki_nyjuc_kostki_zbor5.epub,,,Ад пачосткі ныюць косткі,/Kandrat_Krapiva/Ad_pacostki_nyjuc_kostki_zbor5.html
+13,epub,/Kandrat_Krapiva/Apanasava_sviadomasc_zbor5.epub,,,Апанасава свядомасць,/Kandrat_Krapiva/Apanasava_sviadomasc_zbor5.html
+14,epub,/Kandrat_Krapiva/Aposniaja_pasylka_zbor5.epub,,,Апошняя пасылка,/Kandrat_Krapiva/Aposniaja_pasylka_zbor5.html
+15,epub,/Kandrat_Krapiva/Aposniaja_stauka_Hitlera_zbor5.epub,,,Апошняя стаўка Гітлера,/Kandrat_Krapiva/Aposniaja_stauka_Hitlera_zbor5.html
+16,epub,/Kandrat_Krapiva/Arsyn_zbor5.epub,,,Аршын,/Kandrat_Krapiva/Arsyn_zbor5.html
+17,epub,/Kandrat_Krapiva/Asiol_Isusa_Chrysta_zbor5.epub,,,Асёл Ісуса Хрыста,/Kandrat_Krapiva/Asiol_Isusa_Chrysta_zbor5.html
+18,epub,"/Kandrat_Krapiva/Balabon_da_pary,_balabon_zbor5.epub",,,"Балабонь да пары, балабонь!","/Kandrat_Krapiva/Balabon_da_pary,_balabon_zbor5.html"
+19,epub,/Kandrat_Krapiva/Balada_pra_Jautucha_zbor5.epub,,,Балада пра Яўтуха,/Kandrat_Krapiva/Balada_pra_Jautucha_zbor5.html
+20,epub,/Kandrat_Krapiva/Balet_zbor5.epub,,,Балет,/Kandrat_Krapiva/Balet_zbor5.html
+21,epub,/Kandrat_Krapiva/Backa_i_syn_zbor5.epub,,,Бацька і сын,/Kandrat_Krapiva/Backa_i_syn_zbor5.html
+22,epub,/Kandrat_Krapiva/BIBLIJA_zbor5.epub,,,БІБЛІЯ,/Kandrat_Krapiva/BIBLIJA_zbor5.html
+23,epub,/Kandrat_Krapiva/Biblija_ludajeda_zbor5.epub,,,Біблія людаеда,/Kandrat_Krapiva/Biblija_ludajeda_zbor5.html
+24,epub,/Kandrat_Krapiva/Brama_nieumirucasci_v1.epub,,,Брама неўміручасці,/Kandrat_Krapiva/Brama_nieumirucasci_v1.html
+25,epub,/Kandrat_Krapiva/Brama_nieumirucasci_zbor5.epub,,,Брама неўміручасці,/Kandrat_Krapiva/Brama_nieumirucasci_zbor5.html
+26,epub,/Kandrat_Krapiva/Budz_zdarova_-_kazu_skole_zbor5.epub,,,«Будзь здарова!» — кажу школе,/Kandrat_Krapiva/Budz_zdarova_-_kazu_skole_zbor5.html
+27,epub,/Kandrat_Krapiva/Budujcie_lazni_zbor5.epub,,,Будуйце лазні!,/Kandrat_Krapiva/Budujcie_lazni_zbor5.html
+28,epub,/Kandrat_Krapiva/Vahon_tabaki_zbor5.epub,,,Вагон табакі,/Kandrat_Krapiva/Vahon_tabaki_zbor5.html
+29,epub,/Kandrat_Krapiva/Vajna_zbor5.epub,,,Вайна,/Kandrat_Krapiva/Vajna_zbor5.html
+30,epub,/Kandrat_Krapiva/Valakita_Z_kaapieratyunaj_praktyki_zbor5.epub,,,Валакіта (З кааператыўнай практыкі),/Kandrat_Krapiva/Valakita_Z_kaapieratyunaj_praktyki_zbor5.html
+31,epub,/Kandrat_Krapiva/Varany_zbor5.epub,,,Вараны,/Kandrat_Krapiva/Varany_zbor5.html
+32,epub,/Kandrat_Krapiva/Varona-mitynhouscyca_zbor5.epub,,,Варона-мітынгоўшчыца,/Kandrat_Krapiva/Varona-mitynhouscyca_zbor5.html
+33,epub,/Kandrat_Krapiva/Vol_i_Avadzien_zbor5.epub,,,Вол і Авадзень,/Kandrat_Krapiva/Vol_i_Avadzien_zbor5.html
+34,epub,/Kandrat_Krapiva/Voranu_vysaj_arla_nie_latac_zbor5.epub,,,Ворану вышай арла не лятаць,/Kandrat_Krapiva/Voranu_vysaj_arla_nie_latac_zbor5.html
+35,epub,/Kandrat_Krapiva/Vos_takija_daktary_vymuc_dusu_biez_pary_zbor5.epub,,,Вось такія дактары вымуць душу без пары,/Kandrat_Krapiva/Vos_takija_daktary_vymuc_dusu_biez_pary_zbor5.html
+36,epub,/Kandrat_Krapiva/Viasna_Malunak_zbor5.epub,,,Вясна (Малюнак),/Kandrat_Krapiva/Viasna_Malunak_zbor5.html
+37,epub,/Kandrat_Krapiva/Viasnovy_kirmas_kvietak_u_Bierlinie_zbor5.epub,,,Вясновы кірмаш кветак у Берліне,/Kandrat_Krapiva/Viasnovy_kirmas_kvietak_u_Bierlinie_zbor5.html
+38,epub,/Kandrat_Krapiva/Hanarysty_Parsiuk_zbor5.epub,,,Ганарысты Парсюк,/Kandrat_Krapiva/Hanarysty_Parsiuk_zbor5.html
+39,epub,/Kandrat_Krapiva/Hanulcyna_hora_zbor5.epub,,,Ганульчына гора,/Kandrat_Krapiva/Hanulcyna_hora_zbor5.html
+40,epub,/Kandrat_Krapiva/Hiebiels_bresa_-_viecier_nosic_zbor5.epub,,,Гебельс брэша — вецер носіць,/Kandrat_Krapiva/Hiebiels_bresa_-_viecier_nosic_zbor5.html
+41,epub,"/Kandrat_Krapiva/Hitler_Marcie_pahrazaje,_camu_Marta_nie_radzaje_zbor5.epub",,,"Гітлер Марце пагражае, чаму Марта не раджае","/Kandrat_Krapiva/Hitler_Marcie_pahrazaje,_camu_Marta_nie_radzaje_zbor5.html"
+42,epub,/Kandrat_Krapiva/Hod_Sciapana-lajdaka_zbor5.epub,,,Год Сцяпана-лайдака,/Kandrat_Krapiva/Hod_Sciapana-lajdaka_zbor5.html
+43,epub,/Kandrat_Krapiva/Hrysca_zbor5.epub,,,Грышча,/Kandrat_Krapiva/Hrysca_zbor5.html
+44,epub,/Kandrat_Krapiva/Da_lihi_Cas_zbor5.epub,,,Да лігі «Час»,/Kandrat_Krapiva/Da_lihi_Cas_zbor5.html
+45,epub,/Kandrat_Krapiva/Da_noty_Kierzana_zbor5.epub,,,Да ноты Керзана,/Kandrat_Krapiva/Da_noty_Kierzana_zbor5.html
+46,epub,/Kandrat_Krapiva/Davialosia_svinni_na_nieba_hladziec_zbor5.epub,,,Давялося свінні на неба глядзець...,/Kandrat_Krapiva/Davialosia_svinni_na_nieba_hladziec_zbor5.html
+47,epub,/Kandrat_Krapiva/Daj_dy_daj_zbor5.epub,,,Дай ды дай...,/Kandrat_Krapiva/Daj_dy_daj_zbor5.html
+48,epub,/Kandrat_Krapiva/Dalikatnyja_Parasiaty_zbor5.epub,,,Далікатныя Парасяты,/Kandrat_Krapiva/Dalikatnyja_Parasiaty_zbor5.html
+49,epub,/Kandrat_Krapiva/Dva_kachanni_zbor5.epub,,,Два каханні,/Kandrat_Krapiva/Dva_kachanni_zbor5.html
+50,epub,/Kandrat_Krapiva/Dva_parady_zbor5.epub,,,Два парады,/Kandrat_Krapiva/Dva_parady_zbor5.html
+51,epub,/Kandrat_Krapiva/Dzvie_kumy_zbor5.epub,,,Дзве кумы,/Kandrat_Krapiva/Dzvie_kumy_zbor5.html
+52,epub,/Kandrat_Krapiva/Dzied_i_Baba_zbor5.epub,,,Дзед і Баба,/Kandrat_Krapiva/Dzied_i_Baba_zbor5.html
+53,epub,/Kandrat_Krapiva/Dzivak-navatar_zbor5.epub,,,Дзівак-наватар,/Kandrat_Krapiva/Dzivak-navatar_zbor5.html
+54,epub,"/Kandrat_Krapiva/Dzicia,_Vozyk_i_Zmiaja_zbor5.epub",,,"Дзіця, Вожык і Змяя","/Kandrat_Krapiva/Dzicia,_Vozyk_i_Zmiaja_zbor5.html"
+55,epub,/Kandrat_Krapiva/Dziadzka_Chviados_i_malakasos_zbor5.epub,,,Дзядзька Хвядос і малакасос,/Kandrat_Krapiva/Dziadzka_Chviados_i_malakasos_zbor5.html
+56,epub,/Kandrat_Krapiva/Dzialba_sienakosu_Z_natury_zbor5.epub,,,Дзяльба сенакосу (З натуры),/Kandrat_Krapiva/Dzialba_sienakosu_Z_natury_zbor5.html
+57,epub,/Kandrat_Krapiva/Dzianis_Syramacha_zbor5.epub,,,Дзяніс Сырамаха,/Kandrat_Krapiva/Dzianis_Syramacha_zbor5.html
+58,epub,/Kandrat_Krapiva/Dobra_nasabacyusia_zbor5.epub,,,Добра насабачыўся,/Kandrat_Krapiva/Dobra_nasabacyusia_zbor5.html
+59,epub,/Kandrat_Krapiva/Douh_zbor5.epub,,,Доўг,/Kandrat_Krapiva/Douh_zbor5.html
+60,epub,/Kandrat_Krapiva/Dyplamavany_Baran_zbor5.epub,,,Дыпламаваны Баран,/Kandrat_Krapiva/Dyplamavany_Baran_zbor5.html
+61,epub,/Kandrat_Krapiva/Dekret_zbor5.epub,,,Дэкрэт,/Kandrat_Krapiva/Dekret_zbor5.html
+62,epub,/Kandrat_Krapiva/Jedzie_krytyk_malady_zbor5.epub,,,Едзе крытык малады,/Kandrat_Krapiva/Jedzie_krytyk_malady_zbor5.html
+63,epub,/Kandrat_Krapiva/Jolki_i_palki_zbor5.epub,,,Ёлкі і палкі,/Kandrat_Krapiva/Jolki_i_palki_zbor5.html
+64,epub,/Kandrat_Krapiva/Josc_na_sviecie_dabradziei_zbor5.epub,,,Ёсць на свеце дабрадзеі,/Kandrat_Krapiva/Josc_na_sviecie_dabradziei_zbor5.html
+65,epub,"/Kandrat_Krapiva/Jes,_duran,_bo_to_z_makam_zbor5.epub",,,"Еш, дурань, бо то з макам","/Kandrat_Krapiva/Jes,_duran,_bo_to_z_makam_zbor5.html"
+66,epub,/Kandrat_Krapiva/Zaba_u_kalainie_zbor5.epub,,,Жаба ў каляіне,/Kandrat_Krapiva/Zaba_u_kalainie_zbor5.html
+67,epub,/Kandrat_Krapiva/Zarabiaty_mohuc_byc_zbor5.epub,,,Жарабяты могуць быць,/Kandrat_Krapiva/Zarabiaty_mohuc_byc_zbor5.html
+68,epub,/Kandrat_Krapiva/Z_barysom_Pa_sielkorauskich_dopisach_zbor5.epub,,,З «барышом» (Па селькораўскіх допісах),/Kandrat_Krapiva/Z_barysom_Pa_sielkorauskich_dopisach_zbor5.html
+69,epub,/Kandrat_Krapiva/Z_narodam_zbor5.epub,,,З народам,/Kandrat_Krapiva/Z_narodam_zbor5.html
+70,epub,/Kandrat_Krapiva/Z_novym_scasciem_zbor5.epub,,,З новым шчасцем!,/Kandrat_Krapiva/Z_novym_scasciem_zbor5.html
+71,epub,/Kandrat_Krapiva/Z_tysiacnym_numaram_zbor5.epub,,,З тысячным нумарам,/Kandrat_Krapiva/Z_tysiacnym_numaram_zbor5.html
+72,epub,/Kandrat_Krapiva/Z_fasystouskaj_padvarotni_zbor5.epub,,,З фашыстоўскай падваротні,/Kandrat_Krapiva/Z_fasystouskaj_padvarotni_zbor5.html
+73,epub,/Kandrat_Krapiva/Zachara-dyrektar_zbor5.epub,,,Захара-дырэктар,/Kandrat_Krapiva/Zachara-dyrektar_zbor5.html
+74,epub,/Kandrat_Krapiva/Zacikaulenaja_asoba_zbor5.epub,,,Зацікаўленая асоба,/Kandrat_Krapiva/Zacikaulenaja_asoba_zbor5.html
+75,epub,/Kandrat_Krapiva/Zajava_zbor5.epub,,,Заява,/Kandrat_Krapiva/Zajava_zbor5.html
+76,epub,/Kandrat_Krapiva/Zbroju_k_boju_zbor5.epub,,,Зброю к бою!,/Kandrat_Krapiva/Zbroju_k_boju_zbor5.html
+77,epub,/Kandrat_Krapiva/Zdan_minulaha_nie_ustanie_zbor5.epub,,,Здань мінулага не ўстане,/Kandrat_Krapiva/Zdan_minulaha_nie_ustanie_zbor5.html
+78,epub,/Kandrat_Krapiva/Zdarennie_na_vulicy_zbor5.epub,,,Здарэнне на вуліцы,/Kandrat_Krapiva/Zdarennie_na_vulicy_zbor5.html
+79,epub,/Kandrat_Krapiva/Zdau_akzamint_zbor5.epub,,,Здаў «акзамінт»,/Kandrat_Krapiva/Zdau_akzamint_zbor5.html
+80,epub,/Kandrat_Krapiva/Zuby_zbor5.epub,,,Зубы,/Kandrat_Krapiva/Zuby_zbor5.html
+81,epub,/Kandrat_Krapiva/K_sabacamu_raunaprauju_zbor5.epub,,,К сабачаму раўнапраўю,/Kandrat_Krapiva/K_sabacamu_raunaprauju_zbor5.html
+82,epub,/Kandrat_Krapiva/Kab_viesiela_bylo_Malenki_fieljeton_zbor5.epub,,,Каб весела было... (Маленькі фельетон),/Kandrat_Krapiva/Kab_viesiela_bylo_Malenki_fieljeton_zbor5.html
+83,epub,/Kandrat_Krapiva/Kab_kniham_dy_nohi_zbor5.epub,,,Каб кнігам ды ногі!,/Kandrat_Krapiva/Kab_kniham_dy_nohi_zbor5.html
+84,epub,/Kandrat_Krapiva/Kaho_mnie_uziac_za_kuma_zbor5.epub,,,Каго мне ўзяць за кума?,/Kandrat_Krapiva/Kaho_mnie_uziac_za_kuma_zbor5.html
+85,epub,/Kandrat_Krapiva/Kalhasny_dzied_zbor5.epub,,,Калгасны дзед,/Kandrat_Krapiva/Kalhasny_dzied_zbor5.html
+86,epub,/Kandrat_Krapiva/Kali_u_kramie_josc_niastaca_zbor5.epub,,,Калі ў краме ёсць нястача...,/Kandrat_Krapiva/Kali_u_kramie_josc_niastaca_zbor5.html
+87,epub,/Kandrat_Krapiva/Kaladnaja_razmova_zbor5.epub,,,Калядная размова,/Kandrat_Krapiva/Kaladnaja_razmova_zbor5.html
+88,epub,/Kandrat_Krapiva/Kamsamolskija_prypieuki_zbor5.epub,,,Камсамольскія прыпеўкі,/Kandrat_Krapiva/Kamsamolskija_prypieuki_zbor5.html
+89,epub,/Kandrat_Krapiva/Karovin_muzyk_zbor5.epub,,,Каровін мужык,/Kandrat_Krapiva/Karovin_muzyk_zbor5.html
+90,epub,/Kandrat_Krapiva/Karsun_i_Cieciaruk_zbor5.epub,,,Каршун і Цецярук,/Kandrat_Krapiva/Karsun_i_Cieciaruk_zbor5.html
+91,epub,/Kandrat_Krapiva/Kat_u_niamilasci_zbor5.epub,,,Кат у няміласці,/Kandrat_Krapiva/Kat_u_niamilasci_zbor5.html
+92,epub,/Kandrat_Krapiva/Kachannie_planiet_zbor5.epub,,,Каханне планет,/Kandrat_Krapiva/Kachannie_planiet_zbor5.html
+93,epub,/Kandrat_Krapiva/Kim_my_sionnia_stali_zbor5.epub,,,Кім мы сёння сталі,/Kandrat_Krapiva/Kim_my_sionnia_stali_zbor5.html
+94,epub,/Kandrat_Krapiva/Kormny_i_nadvorny_zbor5.epub,,,Кормны і надворны,/Kandrat_Krapiva/Kormny_i_nadvorny_zbor5.html
+95,epub,/Kandrat_Krapiva/Krapiva_zbor5.epub,,,Крапіва,/Kandrat_Krapiva/Krapiva_zbor5.html
+96,epub,/Kandrat_Krapiva/Kuvada_zbor5.epub,,,Кувада,/Kandrat_Krapiva/Kuvada_zbor5.html
+97,epub,/Kandrat_Krapiva/Kulak_zbor5.epub,,,Кулак,/Kandrat_Krapiva/Kulak_zbor5.html
+98,epub,/Kandrat_Krapiva/Kurortny_viers_zbor5.epub,,,Курортны верш,/Kandrat_Krapiva/Kurortny_viers_zbor5.html
+99,epub,/Kandrat_Krapiva/Lotcyk_i_Blycha_zbor5.epub,,,Лётчык і Блыха,/Kandrat_Krapiva/Lotcyk_i_Blycha_zbor5.html
+100,epub,/Kandrat_Krapiva/Lisi_chvost_i_voucy_klyk_zbor5.epub,,,Лісі хвост і воўчы клык,/Kandrat_Krapiva/Lisi_chvost_i_voucy_klyk_zbor5.html
+101,epub,/Kandrat_Krapiva/Lislivaje_ciala_zbor5.epub,,,Ліслівае цяля,/Kandrat_Krapiva/Lislivaje_ciala_zbor5.html
+102,epub,/Kandrat_Krapiva/Ludzi_i_djably_zbor5.epub,,,Людзі і д’яблы,/Kandrat_Krapiva/Ludzi_i_djably_zbor5.html
+103,epub,/Kandrat_Krapiva/Ludzi-susiedzi_zbor5.epub,,,Людзі-суседзі,/Kandrat_Krapiva/Ludzi-susiedzi_zbor5.html
+104,epub,/Kandrat_Krapiva/Lasnaja_kazka_zbor5.epub,,,Лясная казка,/Kandrat_Krapiva/Lasnaja_kazka_zbor5.html
+105,epub,/Kandrat_Krapiva/Majstry_kryvavaha_dzaza_zbor5.epub,,,Майстры крывавага джаза,/Kandrat_Krapiva/Majstry_kryvavaha_dzaza_zbor5.html
+106,epub,/Kandrat_Krapiva/Malitvy_pa-bielarusku_zbor5.epub,,,Малітвы па-беларуску,/Kandrat_Krapiva/Malitvy_pa-bielarusku_zbor5.html
+107,epub,/Kandrat_Krapiva/Mandat_zbor5.epub,,,Мандат,/Kandrat_Krapiva/Mandat_zbor5.html
+108,epub,/Kandrat_Krapiva/Machalnik_Ivanou_zbor5.epub,,,Махальнік Іваноў,/Kandrat_Krapiva/Machalnik_Ivanou_zbor5.html
+109,epub,/Kandrat_Krapiva/Macacha_zbor5.epub,,,Мачаха,/Kandrat_Krapiva/Macacha_zbor5.html
+110,epub,/Kandrat_Krapiva/Maja_pryncypovasc_zbor5.epub,,,Мая прынцыповасць,/Kandrat_Krapiva/Maja_pryncypovasc_zbor5.html
+111,epub,/Kandrat_Krapiva/Mikitka_zbor5.epub,,,Мікітка,/Kandrat_Krapiva/Mikitka_zbor5.html
+112,epub,/Kandrat_Krapiva/Mikroba_zbor5.epub,,,«Мікроба»,/Kandrat_Krapiva/Mikroba_zbor5.html
+113,epub,/Kandrat_Krapiva/Moda_zbor5.epub,,,Мода,/Kandrat_Krapiva/Moda_zbor5.html
+114,epub,/Kandrat_Krapiva/Moj_susied_zbor5.epub,,,Мой сусед,/Kandrat_Krapiva/Moj_susied_zbor5.html
+115,epub,/Kandrat_Krapiva/Muza_padviala_zbor5.epub,,,Муза падвяла,/Kandrat_Krapiva/Muza_padviala_zbor5.html
+116,epub,/Kandrat_Krapiva/Muraska_i_Zuk_zbor5.epub,,,Мурашка і Жук,/Kandrat_Krapiva/Muraska_i_Zuk_zbor5.html
+117,epub,/Kandrat_Krapiva/My_addziakujem_zbor5.epub,,,Мы аддзякуем,/Kandrat_Krapiva/My_addziakujem_zbor5.html
+118,epub,/Kandrat_Krapiva/My_nie_paklonimsia_bohu_zbor5.epub,,,Мы не паклонімся богу,/Kandrat_Krapiva/My_nie_paklonimsia_bohu_zbor5.html
+119,epub,/Kandrat_Krapiva/Miadzviedzi_zbor5.epub,,,Мядзведзі,/Kandrat_Krapiva/Miadzviedzi_zbor5.html
+120,epub,/Kandrat_Krapiva/Miadzviedzicy_raman_zbor5.epub,,,Мядзведзічы (раман),/Kandrat_Krapiva/Miadzviedzicy_raman_zbor5.html
+121,epub,/Kandrat_Krapiva/Na_Babrujskaj_sasy_zbor5.epub,,,На Бабруйскай шашы,/Kandrat_Krapiva/Na_Babrujskaj_sasy_zbor5.html
+122,epub,/Kandrat_Krapiva/Na_Kresach_Uschodnich_zbor5.epub,,,На «Крэсах Усходніх»,/Kandrat_Krapiva/Na_Kresach_Uschodnich_zbor5.html
+123,epub,/Kandrat_Krapiva/Nahladnaja_hieahrafija_zbor5.epub,,,Наглядная геаграфія,/Kandrat_Krapiva/Nahladnaja_hieahrafija_zbor5.html
+124,epub,/Kandrat_Krapiva/Nam_pamiatny_dvaccaty_hod_zbor5.epub,,,Нам памятны дваццаты год,/Kandrat_Krapiva/Nam_pamiatny_dvaccaty_hod_zbor5.html
+125,epub,/Kandrat_Krapiva/Nauzdahon_za_modaju_zbor5.epub,,,Наўздагон за модаю,/Kandrat_Krapiva/Nauzdahon_za_modaju_zbor5.html
+126,epub,/Kandrat_Krapiva/Nas_zbor5.epub,,,«Наш»,/Kandrat_Krapiva/Nas_zbor5.html
+127,epub,"/Kandrat_Krapiva/Nie_hubi_siabie,_dziaucyna_zbor5.epub",,,"Не губі сябе, дзяўчына...","/Kandrat_Krapiva/Nie_hubi_siabie,_dziaucyna_zbor5.html"
+128,epub,/Kandrat_Krapiva/Nie_da_bzuchu_strava_zbor5.epub,,,Не да «бжуху» страва,/Kandrat_Krapiva/Nie_da_bzuchu_strava_zbor5.html
+129,epub,/Kandrat_Krapiva/Niekraloh_zbor5.epub,,,Некралог,/Kandrat_Krapiva/Niekraloh_zbor5.html
+130,epub,/Kandrat_Krapiva/Novaja_jekcienija_zbor5.epub,,,Новая екценія,/Kandrat_Krapiva/Novaja_jekcienija_zbor5.html
+131,epub,/Kandrat_Krapiva/Nu_jak_nie_vypic_zbor5.epub,,,Ну як не выпіць?,/Kandrat_Krapiva/Nu_jak_nie_vypic_zbor5.html
+132,epub,"/Kandrat_Krapiva/Oj,_nie_chadzi,_frycu,_dyj_na_viecarnicu_zbor5.epub",,,"Ой, не хадзі, фрыцу, дый на вечарніцу","/Kandrat_Krapiva/Oj,_nie_chadzi,_frycu,_dyj_na_viecarnicu_zbor5.html"
+133,epub,/Kandrat_Krapiva/Pazar_zbor5.epub,,,Пажар,/Kandrat_Krapiva/Pazar_zbor5.html
+134,epub,/Kandrat_Krapiva/Pakutniki-sumiascalniki_zbor5.epub,,,Пакутнікі-сумяшчальнікі,/Kandrat_Krapiva/Pakutniki-sumiascalniki_zbor5.html
+135,epub,/Kandrat_Krapiva/Palcyk_zbor5.epub,,,Пальчык,/Kandrat_Krapiva/Palcyk_zbor5.html
+136,epub,/Kandrat_Krapiva/Pamahaty_zbor5.epub,,,Памагаты,/Kandrat_Krapiva/Pamahaty_zbor5.html
+137,epub,/Kandrat_Krapiva/Partyzanskaja_noc_zbor5.epub,,,Партызанская ноч,/Kandrat_Krapiva/Partyzanskaja_noc_zbor5.html
+138,epub,/Kandrat_Krapiva/Pacatak_scascia_zbor5.epub,,,Пачатак шчасця,/Kandrat_Krapiva/Pacatak_scascia_zbor5.html
+139,epub,/Kandrat_Krapiva/Pievien_zbor5.epub,,,Певень,/Kandrat_Krapiva/Pievien_zbor5.html
+140,epub,/Kandrat_Krapiva/Plac_abyvaciela_zbor5.epub,,,Плач абывацеля,/Kandrat_Krapiva/Plac_abyvaciela_zbor5.html
+141,epub,/Kandrat_Krapiva/Pletkary_zbor5.epub,,,Плеткары,/Kandrat_Krapiva/Pletkary_zbor5.html
+142,epub,/Kandrat_Krapiva/Plyviec-tearetyk_zbor5.epub,,,Плывец-тэарэтык,/Kandrat_Krapiva/Plyviec-tearetyk_zbor5.html
+143,epub,/Kandrat_Krapiva/Pop_i_Papuhaj_zbor5.epub,,,Поп і Папугай,/Kandrat_Krapiva/Pop_i_Papuhaj_zbor5.html
+144,epub,/Kandrat_Krapiva/Pra_Cyhana_i_kabylu_zbor5.epub,,,Пра Цыгана і кабылу,/Kandrat_Krapiva/Pra_Cyhana_i_kabylu_zbor5.html
+145,epub,/Kandrat_Krapiva/Praborka_muzie_zbor5.epub,,,Праборка музе,/Kandrat_Krapiva/Praborka_muzie_zbor5.html
+146,epub,/Kandrat_Krapiva/Pramietej_zbor5.epub,,,Праметэй,/Kandrat_Krapiva/Pramietej_zbor5.html
+147,epub,/Kandrat_Krapiva/Pryhody_Stumfa_zbor5.epub,,,Прыгоды Штумфа,/Kandrat_Krapiva/Pryhody_Stumfa_zbor5.html
+148,epub,/Kandrat_Krapiva/Piajuc_zavaranki_zbor5.epub,,,Пяюць жаваранкі,/Kandrat_Krapiva/Piajuc_zavaranki_zbor5.html
+149,epub,/Kandrat_Krapiva/Rahulina_pramova_da_svajho_haspadara_zbor5.epub,,,Рагуліна прамова да свайго гаспадара,/Kandrat_Krapiva/Rahulina_pramova_da_svajho_haspadara_zbor5.html
+150,epub,/Kandrat_Krapiva/Razvitannie_syna_zbor5.epub,,,Развітанне сына,/Kandrat_Krapiva/Razvitannie_syna_zbor5.html
+151,epub,/Kandrat_Krapiva/Razluli-luli_malina_Piesnia_bielaruskich_partyzan_zbor5.epub,,,Разлюлі-люлі маліна (Песня беларускіх партызан),/Kandrat_Krapiva/Razluli-luli_malina_Piesnia_bielaruskich_partyzan_zbor5.html
+152,epub,/Kandrat_Krapiva/Rak_zbor5.epub,,,Рак,/Kandrat_Krapiva/Rak_zbor5.html
+153,epub,/Kandrat_Krapiva/Rascicie_-_nie_ahladajciesia_zbor5.epub,,,Расціце — не аглядайцеся,/Kandrat_Krapiva/Rascicie_-_nie_ahladajciesia_zbor5.html
+154,epub,/Kandrat_Krapiva/Rachityk_zbor5.epub,,,Рахітык,/Kandrat_Krapiva/Rachityk_zbor5.html
+155,epub,/Kandrat_Krapiva/Sabacanio_zbor5.epub,,,Сабачанё,/Kandrat_Krapiva/Sabacanio_zbor5.html
+156,epub,"/Kandrat_Krapiva/Sava,_Asiol_dy_Sonca_zbor5.epub",,,"Сава, Асёл ды Сонца","/Kandrat_Krapiva/Sava,_Asiol_dy_Sonca_zbor5.html"
+157,epub,/Kandrat_Krapiva/Samahonacka_Pjanaja_hutarka_zbor5.epub,,,Самагоначка (П'яная гутарка),/Kandrat_Krapiva/Samahonacka_Pjanaja_hutarka_zbor5.html
+158,epub,/Kandrat_Krapiva/Samanadziejny_Kon_zbor5.epub,,,Саманадзейны Конь,/Kandrat_Krapiva/Samanadziejny_Kon_zbor5.html
+159,epub,/Kandrat_Krapiva/Svajaustvo_zbor5.epub,,,Сваяўство,/Kandrat_Krapiva/Svajaustvo_zbor5.html
+160,epub,/Kandrat_Krapiva/Svinni_na_dapamohu_zbor5.epub,,,Свінні на дапамогу,/Kandrat_Krapiva/Svinni_na_dapamohu_zbor5.html
+161,epub,/Kandrat_Krapiva/Smierc_zbor5.epub,,,Смерць,/Kandrat_Krapiva/Smierc_zbor5.html
+162,epub,/Kandrat_Krapiva/Son_Hitlera_zbor5.epub,,,Сон Гітлера,/Kandrat_Krapiva/Son_Hitlera_zbor5.html
+163,epub,/Kandrat_Krapiva/Spoviedz_zbor5.epub,,,Споведзь,/Kandrat_Krapiva/Spoviedz_zbor5.html
+164,epub,/Kandrat_Krapiva/Starsynia_zbor5.epub,,,Старшыня,/Kandrat_Krapiva/Starsynia_zbor5.html
+165,epub,/Kandrat_Krapiva/Stary_i_Malady_zbor5.epub,,,Стары і Малады,/Kandrat_Krapiva/Stary_i_Malady_zbor5.html
+166,epub,/Kandrat_Krapiva/Suka_u_zbanie_zbor5.epub,,,Сука ў збане,/Kandrat_Krapiva/Suka_u_zbanie_zbor5.html
+167,epub,/Kandrat_Krapiva/Siamiejnaja_sprecka_zbor5.epub,,,Сямейная спрэчка,/Kandrat_Krapiva/Siamiejnaja_sprecka_zbor5.html
+168,epub,/Kandrat_Krapiva/Tak_zyla_miz_imi_zhoda_zbor5.epub,,,Так жыла між імі згода,/Kandrat_Krapiva/Tak_zyla_miz_imi_zhoda_zbor5.html
+169,epub,/Kandrat_Krapiva/Tata-Zajac_zbor5.epub,,,Тата-Заяц,/Kandrat_Krapiva/Tata-Zajac_zbor5.html
+170,epub,/Kandrat_Krapiva/Tvaram_da_vioski_zbor5.epub,,,Тварам да вёскі,/Kandrat_Krapiva/Tvaram_da_vioski_zbor5.html
+171,epub,"/Kandrat_Krapiva/Ty_nie_lajsia,_dziadzia,_pry_savieckaj_uladzie_zbor5.epub",,,"Ты не лайся, дзядзя, пры савецкай уладзе","/Kandrat_Krapiva/Ty_nie_lajsia,_dziadzia,_pry_savieckaj_uladzie_zbor5.html"
+172,epub,/Kandrat_Krapiva/U_kryvavych_mukach_zbor5.epub,,,У крывавых муках,/Kandrat_Krapiva/U_kryvavych_mukach_zbor5.html
+173,epub,/Kandrat_Krapiva/U_papa_dy_byu_sabaka_zbor5.epub,,,У папа ды быў сабака,/Kandrat_Krapiva/U_papa_dy_byu_sabaka_zbor5.html
+174,epub,/Kandrat_Krapiva/U_piunoj_zbor5.epub,,,У піўной,/Kandrat_Krapiva/U_piunoj_zbor5.html
+175,epub,/Kandrat_Krapiva/U_susni_zbor5.epub,,,У сушні,/Kandrat_Krapiva/U_susni_zbor5.html
+176,epub,/Kandrat_Krapiva/U_taku_zbor5.epub,,,У таку,/Kandrat_Krapiva/U_taku_zbor5.html
+177,epub,/Kandrat_Krapiva/Uhodniki-maucalniki_zbor5.epub,,,Угоднікі-маўчальнікі,/Kandrat_Krapiva/Uhodniki-maucalniki_zbor5.html
+178,epub,/Kandrat_Krapiva/Ustarela_technika_zbor5.epub,,,Устарэла тэхніка,/Kandrat_Krapiva/Ustarela_technika_zbor5.html
+179,epub,/Kandrat_Krapiva/Fiha_na_talercy_zbor5.epub,,,Фіга на талерцы,/Kandrat_Krapiva/Fiha_na_talercy_zbor5.html
+180,epub,/Kandrat_Krapiva/Filosaf_i_raka_zbor5.epub,,,Філосаф і рака,/Kandrat_Krapiva/Filosaf_i_raka_zbor5.html
+181,epub,/Kandrat_Krapiva/Frycavy_trafiei_zbor5.epub,,,Фрыцавы трафеі,/Kandrat_Krapiva/Frycavy_trafiei_zbor5.html
+182,epub,/Kandrat_Krapiva/Chviados_-_cyrvony_nos_Kazka_zbor5.epub,,,Хвядос — чырвоны нос (Казка),/Kandrat_Krapiva/Chviados_-_cyrvony_nos_Kazka_zbor5.html
+183,epub,/Kandrat_Krapiva/Chleb_i_vata_zbor5.epub,,,Хлеб і «вата»,/Kandrat_Krapiva/Chleb_i_vata_zbor5.html
+184,epub,/Kandrat_Krapiva/Chto_za_nami_zbor5.epub,,,Хто за намі?,/Kandrat_Krapiva/Chto_za_nami_zbor5.html
+185,epub,/Kandrat_Krapiva/Chto_tam_cuchajecca_zbor5.epub,,,Хто там чухаецца?,/Kandrat_Krapiva/Chto_tam_cuchajecca_zbor5.html
+186,epub,/Kandrat_Krapiva/Ciotkam_navuka_Z_vielikodnych_zdarenniau_zbor5.epub,,,Цёткам навука (З велікодных здарэнняў),/Kandrat_Krapiva/Ciotkam_navuka_Z_vielikodnych_zdarenniau_zbor5.html
+187,epub,/Kandrat_Krapiva/Ci_byla_u_jaho_halava_Staraja_kazka_na_novy_lad_zbor5.epub,,,Ці была ў яго галава? (Старая казка на новы лад),/Kandrat_Krapiva/Ci_byla_u_jaho_halava_Staraja_kazka_na_novy_lad_zbor5.html
+188,epub,"/Kandrat_Krapiva/Ci_to_zdolny_piasniar,_ci_to_modny_platkar_zbor5.epub",,,"Ці то здольны пясняр, ці то модны пляткар?","/Kandrat_Krapiva/Ci_to_zdolny_piasniar,_ci_to_modny_platkar_zbor5.html"
+189,epub,/Kandrat_Krapiva/Ci_ja_nad_jaslami_sumuju_Konskaja_elehija_zbor5.epub,,,Ці я над яслямі сумую (Конская элегія),/Kandrat_Krapiva/Ci_ja_nad_jaslami_sumuju_Konskaja_elehija_zbor5.html
+190,epub,/Kandrat_Krapiva/Cit_zavodzic_novy_byt_zbor5.epub,,,Ціт заводзіць новы быт,/Kandrat_Krapiva/Cit_zavodzic_novy_byt_zbor5.html
+191,epub,/Kandrat_Krapiva/Caho_z_jana_rada_zbor5.epub,,,Чаго ж яна «рада»?,/Kandrat_Krapiva/Caho_z_jana_rada_zbor5.html
+192,epub,/Kandrat_Krapiva/Caho_z_jany_tak_rady_zbor5.epub,,,Чаго ж яны так рады?,/Kandrat_Krapiva/Caho_z_jany_tak_rady_zbor5.html
+193,epub,/Kandrat_Krapiva/Clen_zbor5.epub,,,Член,/Kandrat_Krapiva/Clen_zbor5.html
+194,epub,/Kandrat_Krapiva/Cort_zbor5.epub,,,Чорт,/Kandrat_Krapiva/Cort_zbor5.html
+195,epub,/Kandrat_Krapiva/Cyrvonaja_miatla_dobra_miala_zbor5.epub,,,Чырвоная мятла добра мяла,/Kandrat_Krapiva/Cyrvonaja_miatla_dobra_miala_zbor5.html
+196,epub,/Kandrat_Krapiva/Skiruta_zbor5.epub,,,Шкірута,/Kandrat_Krapiva/Skiruta_zbor5.html
+197,epub,/Kandrat_Krapiva/Slachi_da_isciny_zbor5.epub,,,Шляхі да ісціны,/Kandrat_Krapiva/Slachi_da_isciny_zbor5.html
+198,epub,/Kandrat_Krapiva/Sto_ja_bacyu_na_treku_zbor5.epub,,,Што я бачыў на «трэку»,/Kandrat_Krapiva/Sto_ja_bacyu_na_treku_zbor5.html
+199,epub,/Kandrat_Krapiva/Scyry_Pop_zbor5.epub,,,Шчыры Поп,/Kandrat_Krapiva/Scyry_Pop_zbor5.html
+200,epub,"/Kandrat_Krapiva/Sepca_babka,_sepca_zbor5.epub",,,"Шэпча бабка, шэпча...","/Kandrat_Krapiva/Sepca_babka,_sepca_zbor5.html"
+201,epub,/Kandrat_Krapiva/Epihramy_zbor5.epub,,,Эпіграмы,/Kandrat_Krapiva/Epihramy_zbor5.html
+202,epub,/Kandrat_Krapiva/Epitafija_zbor5.epub,,,Эпітафія,/Kandrat_Krapiva/Epitafija_zbor5.html
+203,epub,/Kandrat_Krapiva/Ja_byu_u_Trasciancy_zbor5.epub,,,«Я быў у Трасцянцы»,/Kandrat_Krapiva/Ja_byu_u_Trasciancy_zbor5.html
+204,epub,/Kandrat_Krapiva/Ja_nie_piasniar_zbor5.epub,,,Я не пясняр!,/Kandrat_Krapiva/Ja_nie_piasniar_zbor5.html
+205,epub,/Kandrat_Krapiva/Ja_sanuju_zbor5.epub,,,Я шаную,/Kandrat_Krapiva/Ja_sanuju_zbor5.html
+206,epub,/Kandrat_Krapiva/Jazycok_zbor5.epub,,,Язычок,/Kandrat_Krapiva/Jazycok_zbor5.html
+207,epub,/Kandrat_Krapiva/Jak_Antak_streu_vielkanoc_zbor5.epub,,,Як Антак стрэў «вельканоц»,/Kandrat_Krapiva/Jak_Antak_streu_vielkanoc_zbor5.html
+208,epub,/Kandrat_Krapiva/Jak_jon_stau_biazboznikam_zbor5.epub,,,Як ён стаў бязбожнікам,/Kandrat_Krapiva/Jak_jon_stau_biazboznikam_zbor5.html
+209,epub,/Kandrat_Krapiva/Janka_i_Karla_zbor5.epub,,,Янка і Карла,/Kandrat_Krapiva/Janka_i_Karla_zbor5.html
+210,epub,/Kandrat_Krapiva/Aposniaja_pasylka.epub,,,Апошняя пасылка,/Kandrat_Krapiva/Aposniaja_pasylka.html
+211,epub,/Kandrat_Krapiva/Vos_tut_i_pisy.epub,,,Вось тут і пішы,/Kandrat_Krapiva/Vos_tut_i_pisy.html
+212,epub,/Kandrat_Krapiva/Dzianis_Syramacha.epub,,,Дзяніс Сырамаха,/Kandrat_Krapiva/Dzianis_Syramacha.html
+213,epub,/Kandrat_Krapiva/Jolki_i_palki.epub,,,Ёлкі і палкі,/Kandrat_Krapiva/Jolki_i_palki.html
+214,epub,/Kandrat_Krapiva/Josc_na_sviecie_dabradziei.epub,,,Ёсць на свеце дабрадзеі,/Kandrat_Krapiva/Josc_na_sviecie_dabradziei.html
+215,epub,/Kandrat_Krapiva/Zyvyja_i_miortvyja.epub,,,Жывыя і мёртвыя,/Kandrat_Krapiva/Zyvyja_i_miortvyja.html
+216,epub,/Kandrat_Krapiva/Z_novym_scasciem.epub,,,З новым шчасцем!,/Kandrat_Krapiva/Z_novym_scasciem.html
+217,epub,/Kandrat_Krapiva/Kab_viesiela_bylo.epub,,,Каб весела было...,/Kandrat_Krapiva/Kab_viesiela_bylo.html
+218,epub,/Kandrat_Krapiva/Kab_kniham_dy_nohi.epub,,,Каб кнігам ды ногі!,/Kandrat_Krapiva/Kab_kniham_dy_nohi.html
+219,epub,/Kandrat_Krapiva/Londan.epub,,,Лондан,/Kandrat_Krapiva/Londan.html
+220,epub,/Kandrat_Krapiva/Maja_pryncypovasc.epub,,,Мая прынцыповасць,/Kandrat_Krapiva/Maja_pryncypovasc.html
+221,epub,/Kandrat_Krapiva/Michail_Silnicki.epub,,,Міхаіл Сільніцкі,/Kandrat_Krapiva/Michail_Silnicki.html
+222,epub,/Kandrat_Krapiva/Na_alkaholnym_froncie.epub,,,На алкагольным фронце,/Kandrat_Krapiva/Na_alkaholnym_froncie.html
+223,epub,/Kandrat_Krapiva/Nahladnaja_hieahrafija.epub,,,Наглядная геаграфія,/Kandrat_Krapiva/Nahladnaja_hieahrafija.html
+224,epub,/Kandrat_Krapiva/Nad_rakoj_Aresaj.epub,,,Над ракой Арэсай,/Kandrat_Krapiva/Nad_rakoj_Aresaj.html
+225,epub,/Kandrat_Krapiva/Pacatak_scascia.epub,,,Пачатак шчасця,/Kandrat_Krapiva/Pacatak_scascia.html
+226,epub,/Kandrat_Krapiva/Rascicie_-_nie_ahladajciesia.epub,,,Расціце — не аглядайцеся,/Kandrat_Krapiva/Rascicie_-_nie_ahladajciesia.html
+227,epub,/Kandrat_Krapiva/Sabacanio.epub,,,Сабачанё,/Kandrat_Krapiva/Sabacanio.html
+228,epub,"/Kandrat_Krapiva/Uch,_uch_-_my_udvuch.epub",,,"Ух, ух — мы удвух!","/Kandrat_Krapiva/Uch,_uch_-_my_udvuch.html"
+229,epub,/Kandrat_Krapiva/Chvost.epub,,,Хвост,/Kandrat_Krapiva/Chvost.html
+230,epub,/Kandrat_Krapiva/Ci_byla_u_jaho_halava.epub,,,Ці была ў яго галава?,/Kandrat_Krapiva/Ci_byla_u_jaho_halava.html
+231,epub,/Kandrat_Krapiva/Caho_z_jana_rada.epub,,,Чаго ж яна «рада»?,/Kandrat_Krapiva/Caho_z_jana_rada.html
+232,epub,/Kandrat_Krapiva/Ja_byu_u_Trasciancy.epub,,,«Я быў у Трасцянцы»,/Kandrat_Krapiva/Ja_byu_u_Trasciancy.html
+233,epub,/Kandrat_Krapiva/Ab_niekatorych_pytanniach_bielaruskaj_movy.epub,,,Аб некаторых пытаннях беларускай мовы,/Kandrat_Krapiva/Ab_niekatorych_pytanniach_bielaruskaj_movy.html
+234,epub,/Kandrat_Krapiva/Ab_satyrycnaj_kamiedyi.epub,,,Аб сатырычнай камедыі,/Kandrat_Krapiva/Ab_satyrycnaj_kamiedyi.html
+235,epub,/Kandrat_Krapiva/Ab_charaktary_bielarusa.epub,,,Аб характары беларуса,/Kandrat_Krapiva/Ab_charaktary_bielarusa.html
+236,epub,/Kandrat_Krapiva/Ad_malenstva_da_stalasci.epub,,,Ад маленства да сталасці,/Kandrat_Krapiva/Ad_malenstva_da_stalasci.html
+237,epub,/Kandrat_Krapiva/Bielaruskaja_savieckaja_dramaturhija_za_1947_hod.epub,,,Беларуская савецкая драматургія за 1947 год,/Kandrat_Krapiva/Bielaruskaja_savieckaja_dramaturhija_za_1947_hod.html
+238,epub,/Kandrat_Krapiva/Bielaruskija_prykazki.epub,,,Беларускія прыказкі,/Kandrat_Krapiva/Bielaruskija_prykazki.html
+239,epub,/Kandrat_Krapiva/Vinsuju_talenavity_kalektyu.epub,,,Віншую таленавіты калектыў,/Kandrat_Krapiva/Vinsuju_talenavity_kalektyu.html
+240,epub,/Kandrat_Krapiva/Vydatny_pismiennik_i_calaviek.epub,,,Выдатны пісьменнік і чалавек,/Kandrat_Krapiva/Vydatny_pismiennik_i_calaviek.html
+241,epub,/Kandrat_Krapiva/Vialikaja_druzba.epub,,,Вялікая дружба,/Kandrat_Krapiva/Vialikaja_druzba.html
+242,epub,/Kandrat_Krapiva/Dumki_pra_satyru.epub,,,Думкі пра сатыру,/Kandrat_Krapiva/Dumki_pra_satyru.html
+243,epub,/Kandrat_Krapiva/Duch_zachvatvaje_ad_radasci.epub,,,Дух захватвае ад радасці,/Kandrat_Krapiva/Duch_zachvatvaje_ad_radasci.html
+244,epub,/Kandrat_Krapiva/Jon_daryu_ludziam_radasc.epub,,,Ён дарыў людзям радасць,/Kandrat_Krapiva/Jon_daryu_ludziam_radasc.html
+245,epub,/Kandrat_Krapiva/Zyccio_i_tvorcasc_narodnaha_paeta_Bielarusi_Jakuba_Kolasa.epub,,,Жыццё і творчасць народнага паэта Беларусі Якуба Коласа,/Kandrat_Krapiva/Zyccio_i_tvorcasc_narodnaha_paeta_Bielarusi_Jakuba_Kolasa.html
+246,epub,/Kandrat_Krapiva/Zamiest_pradmovy.epub,,,Замест прадмовы,/Kandrat_Krapiva/Zamiest_pradmovy.html
+247,epub,/Kandrat_Krapiva/Kanflikt_-_asnova_pjesy.epub,,,Канфлікт — аснова п’есы,/Kandrat_Krapiva/Kanflikt_-_asnova_pjesy.html
+248,epub,/Kandrat_Krapiva/Kvietka_scascia.epub,,,Кветка шчасця,/Kandrat_Krapiva/Kvietka_scascia.html
+249,epub,/Kandrat_Krapiva/Ludiem_pospolitym_k_dobromu_naucieniju.epub,,,«Людем посполитым к доброму научению»,/Kandrat_Krapiva/Ludiem_pospolitym_k_dobromu_naucieniju.html
+250,epub,/Kandrat_Krapiva/Mir_nalezyc_prostym_ludziam.epub,,,Мір належыць простым людзям,/Kandrat_Krapiva/Mir_nalezyc_prostym_ludziam.html
+251,epub,/Kandrat_Krapiva/Nieskarystanyja_mahcymasci.epub,,,Нескарыстаныя магчымасці,/Kandrat_Krapiva/Nieskarystanyja_mahcymasci.html
+252,epub,/Kandrat_Krapiva/Pacesny_abaviazak_-_byc_saldatam_vialikaha_pachodu.epub,,,Пачэсны абавязак — быць салдатам вялікага паходу,/Kandrat_Krapiva/Pacesny_abaviazak_-_byc_saldatam_vialikaha_pachodu.html
+253,epub,/Kandrat_Krapiva/Pismiennik-balsavik.epub,,,Пісьменнік-бальшавік,/Kandrat_Krapiva/Pismiennik-balsavik.html
+254,epub,/Kandrat_Krapiva/Pra_kitajski_mur.epub,,,Пра кітайскі мур,/Kandrat_Krapiva/Pra_kitajski_mur.html
+255,epub,/Kandrat_Krapiva/Pra_pierabudovu_i_niedabudovu.epub,,,Пра перабудову і «недабудову»,/Kandrat_Krapiva/Pra_pierabudovu_i_niedabudovu.html
+256,epub,/Kandrat_Krapiva/Pradmova.epub,,,Прадмова,/Kandrat_Krapiva/Pradmova.html
+257,epub,/Kandrat_Krapiva/Pramova_na_zjezdzie_nastaunikau_Bielaruskaj_SSR.epub,,,Прамова на з’ездзе настаўнікаў Беларускай ССР,/Kandrat_Krapiva/Pramova_na_zjezdzie_nastaunikau_Bielaruskaj_SSR.html
+258,epub,/Kandrat_Krapiva/Pramova_na_siesii_Viarchounaha_Savieta_Bielaruskaj_SSR.epub,,,Прамова на сесіі Вярхоўнага Савета Беларускай ССР,/Kandrat_Krapiva/Pramova_na_siesii_Viarchounaha_Savieta_Bielaruskaj_SSR.html
+259,epub,/Kandrat_Krapiva/Pramova_na_Cacviortym_zjezdzie_SP_BSSR.epub,,,Прамова на Чацвёртым з’ездзе СП БССР,/Kandrat_Krapiva/Pramova_na_Cacviortym_zjezdzie_SP_BSSR.html
+260,epub,/Kandrat_Krapiva/Pytanni_bielaruskaha_pravapisu.epub,,,Пытанні беларускага правапісу,/Kandrat_Krapiva/Pytanni_bielaruskaha_pravapisu.html
+261,epub,/Kandrat_Krapiva/Pjesy_i_vobrazy.epub,,,П’есы і вобразы,/Kandrat_Krapiva/Pjesy_i_vobrazy.html
+262,epub,/Kandrat_Krapiva/Salut_pieramohi.epub,,,Салют перамогі,/Kandrat_Krapiva/Salut_pieramohi.html
+263,epub,/Kandrat_Krapiva/Sviata_bielaruskaj_sacyjalistycnaj_kultury.epub,,,Свята беларускай сацыялістычнай культуры,/Kandrat_Krapiva/Sviata_bielaruskaj_sacyjalistycnaj_kultury.html
+264,epub,/Kandrat_Krapiva/Slova_da_malodsych.epub,,,Слова да малодшых,/Kandrat_Krapiva/Slova_da_malodsych.html
+265,epub,/Kandrat_Krapiva/Stymul_dalejsaha_rostu.epub,,,Стымул далейшага росту,/Kandrat_Krapiva/Stymul_dalejsaha_rostu.html
+266,epub,/Kandrat_Krapiva/Calaviek_-_piers_za_usio.epub,,,Чалавек — перш за ўсё,/Kandrat_Krapiva/Calaviek_-_piers_za_usio.html
+267,epub,/Kandrat_Krapiva/Cym_vialiki_Majakouski.epub,,,Чым вялікі Маякоўскі?,/Kandrat_Krapiva/Cym_vialiki_Majakouski.html
+268,epub,/Kandrat_Krapiva/Skodnaja_blytanina_u_pytanniach_movy.epub,,,Шкодная блытаніна ў пытаннях мовы,/Kandrat_Krapiva/Skodnaja_blytanina_u_pytanniach_movy.html
+269,epub,/Kandrat_Krapiva/Sto_mnie_rupic.epub,,,Што мне рупіць,/Kandrat_Krapiva/Sto_mnie_rupic.html
+270,epub,/Kandrat_Krapiva/Janka_Kupala.epub,,,Янка Купала,/Kandrat_Krapiva/Janka_Kupala.html
+271,epub,/Kandrat_Krapiva/Viasna.epub,,,Вясна,/Kandrat_Krapiva/Viasna.html
+272,epub,/Kandrat_Krapiva/Zdau_akzamint.epub,,,Здаў «акзамінт»,/Kandrat_Krapiva/Zdau_akzamint.html
+273,epub,/Kandrat_Krapiva/Karovin_muzyk.epub,,,Каровін мужык,/Kandrat_Krapiva/Karovin_muzyk.html
+274,epub,/Kandrat_Krapiva/Na_pasiolki.epub,,,На пасёлкі,/Kandrat_Krapiva/Na_pasiolki.html
+275,epub,/Kandrat_Krapiva/Niedarecnaja_stuka.epub,,,Недарэчная штука,/Kandrat_Krapiva/Niedarecnaja_stuka.html
+276,epub,/Kandrat_Krapiva/Spoviedz.epub,,,Споведзь,/Kandrat_Krapiva/Spoviedz.html
+277,epub,/Kandrat_Krapiva/Jak_jon_stau_biazboznikam.epub,,,Як ён стаў бязбожнікам,/Kandrat_Krapiva/Jak_jon_stau_biazboznikam.html
+278,epub,/Kandrat_Krapiva/Adnaje_ranicy.epub,,,Аднае раніцы,/Kandrat_Krapiva/Adnaje_ranicy.html
+279,epub,/Kandrat_Krapiva/Vajna.epub,,,Вайна,/Kandrat_Krapiva/Vajna.html
+280,epub,/Kandrat_Krapiva/Harelik_i_jaho_zonka.epub,,,Гарэлік і яго жонка,/Kandrat_Krapiva/Harelik_i_jaho_zonka.html
+281,epub,/Kandrat_Krapiva/Douh.epub,,,Доўг,/Kandrat_Krapiva/Douh.html
+282,epub,/Kandrat_Krapiva/Idei.epub,,,Ідэі,/Kandrat_Krapiva/Idei.html
+283,epub,/Kandrat_Krapiva/Klas.epub,,,Клас,/Kandrat_Krapiva/Klas.html
+284,epub,/Kandrat_Krapiva/Licha_jaho_razbiare.epub,,,Ліха яго разбярэ,/Kandrat_Krapiva/Licha_jaho_razbiare.html
+285,epub,/Kandrat_Krapiva/Ludzi-susiedzi.epub,,,Людзі-суседзі,/Kandrat_Krapiva/Ludzi-susiedzi.html
+286,epub,/Kandrat_Krapiva/Moj_susied.epub,,,Мой сусед,/Kandrat_Krapiva/Moj_susied.html
+287,epub,/Kandrat_Krapiva/Pad_hrukat_kolau.epub,,,Пад грукат колаў,/Kandrat_Krapiva/Pad_hrukat_kolau.html
+288,epub,/Kandrat_Krapiva/Padaroznaje.epub,,,Падарожнае,/Kandrat_Krapiva/Padaroznaje.html
+289,epub,/Kandrat_Krapiva/Palcyk.epub,,,Пальчык,/Kandrat_Krapiva/Palcyk.html
+290,epub,/Kandrat_Krapiva/Pievien.epub,,,Певень,/Kandrat_Krapiva/Pievien.html
+291,epub,/Kandrat_Krapiva/Smierc.epub,,,Смерць,/Kandrat_Krapiva/Smierc.html
+292,epub,/Kandrat_Krapiva/Snieh_idzie.epub,,,Снег ідзе,/Kandrat_Krapiva/Snieh_idzie.html
+293,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_5_1.djvu,,,"Збор твораў у пяці тамах, т. 1","/Kandrat_Krapiva/Zbor_tvorau_u_piaci_tamach,_t_1.html"
+294,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_5_2.djvu,,,"Збор твораў у пяці тамах, т. 2","/Kandrat_Krapiva/Zbor_tvorau_u_piaci_tamach,_t_2.html"
+295,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_5_3.djvu,,,"Збор твораў у пяці тамах, т. 3","/Kandrat_Krapiva/Zbor_tvorau_u_piaci_tamach,_t_3.html"
+296,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_5_4.djvu,,,"Збор твораў у пяці тамах, т. 4","/Kandrat_Krapiva/Zbor_tvorau_u_piaci_tamach,_t_4.html"
+297,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_5_5.djvu,,,"Збор твораў у пяці тамах, т. 5","/Kandrat_Krapiva/Zbor_tvorau_u_piaci_tamach,_t_5.html"
+298,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_6_1.djvu,,,"Збор твораў у шасці тамах, т. 1","/Kandrat_Krapiva/Zbor_tvorau_u_sasci_tamach,_t_1.html"
+299,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_6_2.djvu,,,"Збор твораў у шасці тамах, т. 2","/Kandrat_Krapiva/Zbor_tvorau_u_sasci_tamach,_t_2.html"
+300,djvu,https://files.knihi.com/Knihi/scanned-n2/Krapiva_Kandrat.Zbor_tvorau_6_3.djvu,,,"Збор твораў у шасці тамах, т. 3","/Kandrat_Krapiva/Zbor_tvorau_u_sasci_tamach,_t_3.html"
+301,djvu,https://files.knihi.com/Knihi/scanned3/Krapiva_Kandrat.Zbor_tvorau_6_4.djvu,,,"Збор твораў у шасці тамах, т. 4","/Kandrat_Krapiva/Zbor_tvorau_u_sasci_tamach,_t_4.html"
+302,djvu,https://files.knihi.com/Knihi/scanned3/Krapiva_Kandrat.Zbor_tvorau_6_5.djvu,,,"Збор твораў у шасці тамах, т. 5","/Kandrat_Krapiva/Zbor_tvorau_u_sasci_tamach,_t_5.html"
+303,djvu,https://files.knihi.com/Knihi/scanned3/Krapiva_Kandrat.Zbor_tvorau_6_6.djvu,,,"Збор твораў у шасці тамах, т. 6","/Kandrat_Krapiva/Zbor_tvorau_u_sasci_tamach,_t_6.html"
+304,epub,/Ivan_Krylou/Aboz.epub,Іван Крылоў,/Ivan_Krylou/,Абоз,/Ivan_Krylou/Aboz.html
+305,epub,/Ivan_Krylou/Arakul.epub,Іван Крылоў,/Ivan_Krylou/,Аракул,/Ivan_Krylou/Arakul.html
+306,epub,/Ivan_Krylou/Arol_i_Kury.epub,Іван Крылоў,/Ivan_Krylou/,Арол і Куры,/Ivan_Krylou/Arol_i_Kury.html
+307,epub,/Ivan_Krylou/Arol_i_Pcala.epub,Іван Крылоў,/Ivan_Krylou/,Арол і Пчала,/Ivan_Krylou/Arol_i_Pcala.html
+308,epub,/Ivan_Krylou/Asiol.epub,Іван Крылоў,/Ivan_Krylou/,Асёл,/Ivan_Krylou/Asiol.html
+309,epub,/Ivan_Krylou/Asiol_i_Salaviej.epub,Іван Крылоў,/Ivan_Krylou/,Асёл і Салавей,/Ivan_Krylou/Asiol_i_Salaviej.html
+310,epub,/Ivan_Krylou/Bahaciej_i_Paet.epub,Іван Крылоў,/Ivan_Krylou/,Багацей і Паэт,/Ivan_Krylou/Bahaciej_i_Paet.html
+311,epub,/Ivan_Krylou/Bocka.epub,Іван Крылоў,/Ivan_Krylou/,Бочка,/Ivan_Krylou/Bocka.html
+312,epub,/Ivan_Krylou/Varona_i_Lisica.epub,Іван Крылоў,/Ivan_Krylou/,Варона і Лісіца,/Ivan_Krylou/Varona_i_Lisica.html
+313,epub,/Ivan_Krylou/Vasilok.epub,Іван Крылоў,/Ivan_Krylou/,Васілёк,/Ivan_Krylou/Vasilok.html
+314,epub,/Ivan_Krylou/Vouk_i_Ziaziula.epub,Іван Крылоў,/Ivan_Krylou/,Воўк і Зязюля,/Ivan_Krylou/Vouk_i_Ziaziula.html
+315,epub,/Ivan_Krylou/Vouk_i_Mysania.epub,Іван Крылоў,/Ivan_Krylou/,Воўк і Мышаня,/Ivan_Krylou/Vouk_i_Mysania.html
+316,epub,/Ivan_Krylou/Vouk_i_Pastuchi.epub,Іван Крылоў,/Ivan_Krylou/,Воўк і Пастухі,/Ivan_Krylou/Vouk_i_Pastuchi.html
+317,epub,/Ivan_Krylou/Vouk_na_psiarni.epub,Іван Крылоў,/Ivan_Krylou/,Воўк на псярні,/Ivan_Krylou/Vouk_na_psiarni.html
+318,epub,/Ivan_Krylou/Vialmoza_i_Filosaf.epub,Іван Крылоў,/Ivan_Krylou/,Вяльможа і Філосаф,/Ivan_Krylou/Vialmoza_i_Filosaf.html
+319,epub,/Ivan_Krylou/Hruhania.epub,Іван Крылоў,/Ivan_Krylou/,Груганя,/Ivan_Krylou/Hruhania.html
+320,epub,/Ivan_Krylou/Dva_Haluby.epub,Іван Крылоў,/Ivan_Krylou/,Два Галубы,/Ivan_Krylou/Dva_Haluby.html
+321,epub,/Ivan_Krylou/Dva_Muzyki.epub,Іван Крылоў,/Ivan_Krylou/,Два Мужыкі,/Ivan_Krylou/Dva_Muzyki.html
+322,epub,/Ivan_Krylou/Dva_Sabaki.epub,Іван Крылоў,/Ivan_Krylou/,Два Сабакі,/Ivan_Krylou/Dva_Sabaki.html
+323,epub,/Ivan_Krylou/Dub_i_Tryscina.epub,Іван Крылоў,/Ivan_Krylou/,Дуб і Трысціна,/Ivan_Krylou/Dub_i_Tryscina.html
+324,epub,"/Ivan_Krylou/Zaby,_jakija_prasili_Cara.epub",Іван Крылоў,/Ivan_Krylou/,"Жабы, якія прасілі Цара","/Ivan_Krylou/Zaby,_jakija_prasili_Cara.html"
+325,epub,/Ivan_Krylou/Zajac_na_ablavie.epub,Іван Крылоў,/Ivan_Krylou/,Заяц на аблаве,/Ivan_Krylou/Zajac_na_ablavie.html
+326,epub,/Ivan_Krylou/Zmiaja_i_Aviecka.epub,Іван Крылоў,/Ivan_Krylou/,Змяя і Авечка,/Ivan_Krylou/Zmiaja_i_Aviecka.html
+327,epub,/Ivan_Krylou/Koska_i_Salaviej.epub,Іван Крылоў,/Ivan_Krylou/,Кошка і Салавей,/Ivan_Krylou/Koska_i_Salaviej.html
+328,epub,/Ivan_Krylou/Les_i_Ahon.epub,Іван Крылоў,/Ivan_Krylou/,Лес і Агонь,/Ivan_Krylou/Les_i_Ahon.html
+329,epub,/Ivan_Krylou/Leu_i_Bars.epub,Іван Крылоў,/Ivan_Krylou/,Леў і Барс,/Ivan_Krylou/Leu_i_Bars.html
+330,epub,/Ivan_Krylou/Lisica_i_Surok.epub,Іван Крылоў,/Ivan_Krylou/,Лісіца і Сурок,/Ivan_Krylou/Lisica_i_Surok.html
+331,epub,/Ivan_Krylou/Malpy.epub,Іван Крылоў,/Ivan_Krylou/,Малпы,/Ivan_Krylou/Malpy.html
+332,epub,/Ivan_Krylou/Mucha_i_Pcala.epub,Іван Крылоў,/Ivan_Krylou/,Муха і Пчала,/Ivan_Krylou/Mucha_i_Pcala.html
+333,epub,/Ivan_Krylou/Padziel.epub,Іван Крылоў,/Ivan_Krylou/,Падзел,/Ivan_Krylou/Padziel.html
+334,epub,/Ivan_Krylou/Pamorak.epub,Іван Крылоў,/Ivan_Krylou/,Паморак,/Ivan_Krylou/Pamorak.html
+335,epub,/Ivan_Krylou/Parnas.epub,Іван Крылоў,/Ivan_Krylou/,Парнас,/Ivan_Krylou/Parnas.html
+336,epub,/Ivan_Krylou/Pievien_i_Zamcuznaje_Ziernie.epub,Іван Крылоў,/Ivan_Krylou/,Певень і Жамчужнае Зерне,/Ivan_Krylou/Pievien_i_Zamcuznaje_Ziernie.html
+337,epub,/Ivan_Krylou/Pieraborlivaja_niaviesta.epub,Іван Крылоў,/Ivan_Krylou/,Пераборлівая нявеста,/Ivan_Krylou/Pieraborlivaja_niaviesta.html
+338,epub,/Ivan_Krylou/Prychadzanin.epub,Іван Крылоў,/Ivan_Krylou/,Прыхаджанін,/Ivan_Krylou/Prychadzanin.html
+339,epub,/Ivan_Krylou/Rucaj.epub,Іван Крылоў,/Ivan_Krylou/,Ручай,/Ivan_Krylou/Rucaj.html
+340,epub,/Ivan_Krylou/Sabaka_i_Kon.epub,Іван Крылоў,/Ivan_Krylou/,Сабака і Конь,/Ivan_Krylou/Sabaka_i_Kon.html
+341,epub,/Ivan_Krylou/Sabacaja_druzba.epub,Іван Крылоў,/Ivan_Krylou/,Сабачая дружба,/Ivan_Krylou/Sabacaja_druzba.html
+342,epub,/Ivan_Krylou/Svinnia_pad_Dubam.epub,Іван Крылоў,/Ivan_Krylou/,Свіння пад Дубам,/Ivan_Krylou/Svinnia_pad_Dubam.html
+343,epub,/Ivan_Krylou/Sielanin_i_Aviecka.epub,Іван Крылоў,/Ivan_Krylou/,Селянін і Авечка,/Ivan_Krylou/Sielanin_i_Aviecka.html
+344,epub,/Ivan_Krylou/Sielanin_i_Zmiaja.epub,Іван Крылоў,/Ivan_Krylou/,Селянін і Змяя,/Ivan_Krylou/Sielanin_i_Zmiaja.html
+345,epub,/Ivan_Krylou/Sinica.epub,Іван Крылоў,/Ivan_Krylou/,Сініца,/Ivan_Krylou/Sinica.html
+346,epub,/Ivan_Krylou/Trajazeniec.epub,Іван Крылоў,/Ivan_Krylou/,Траяжэнец,/Ivan_Krylou/Trajazeniec.html
+347,epub,/Ivan_Krylou/Chlus.epub,Іван Крылоў,/Ivan_Krylou/,Хлус,/Ivan_Krylou/Chlus.html
+348,epub,/Ivan_Krylou/Cyz_i_Vozyk.epub,Іван Крылоў,/Ivan_Krylou/,Чыж і Вожык,/Ivan_Krylou/Cyz_i_Vozyk.html
+349,epub,/Ivan_Krylou/Cyrvoniec.epub,Іван Крылоў,/Ivan_Krylou/,Чырвонец,/Ivan_Krylou/Cyrvoniec.html
+350,epub,"/Uladzimir_Majakouski/Niezvycajnaja_pryhoda,_sto_adbylasia_z_Uladzimiram_Majakouskim_na_dacy.epub",Уладзімір Маякоўскі,/Uladzimir_Majakouski/,"Незвычайная прыгода, што адбылася з Уладзімірам Маякоўскім на дачы","/Uladzimir_Majakouski/Niezvycajnaja_pryhoda,_sto_adbylasia_z_Uladzimiram_Majakouskim_na_dacy.html"
+351,epub,/Anton_Cechau/Chamieleon.epub,Антон Чэхаў,/Anton_Cechau/,Хамелеон,/Anton_Cechau/Chamieleon.html
+352,epub,"/Taras_Saucenka/I_miortvym,_i_zyvym,_i_nienarodzanym_ziemlakam_maim_na_Ukrainie_i_nie_na_Ukrainie_majo_siabrouskaje_paslannie.epub",Тарас Шаўчэнка,/Taras_Saucenka/,"І мёртвым, і жывым, і ненароджаным землякам маім на Ўкраіне і не на Ўкраіне маё сяброўскае пасланне","/Taras_Saucenka/I_miortvym,_i_zyvym,_i_nienarodzanym_ziemlakam_maim_na_Ukrainie_i_nie_na_Ukrainie_majo_siabrouskaje_paslannie.html"
+353,epub,/Ivan_Navumienka/Starejsyna_rodnaj_litaratury_zbor5.epub,Іван Навуменка,/Ivan_Navumienka/,Старэйшына роднай літаратуры,/Ivan_Navumienka/Starejsyna_rodnaj_litaratury_zbor5.html
