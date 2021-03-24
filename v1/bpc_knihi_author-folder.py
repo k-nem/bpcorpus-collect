@@ -35,11 +35,18 @@ linksinfo = []
 timer = 1
 
 for i,row in adict.items():
-    id = i
+    authorId = i
+    if len(str(authorId)) == 1:
+        authorId = '00'+str(authorId)
+    elif len(str(authorId)) == 2:
+        authorId = '0'+str(authorId)
+    else:
+        authorId = str(authorId)
+        
     name = row['name']
     path = row['path']
     url = 'https://knihi.com/'+path
-    folname = id+'_'+name
+    folname = authorId+'_'+name
 
     req = requests.get(url, headers)
     soup = BeautifulSoup(req.content, 'html.parser')

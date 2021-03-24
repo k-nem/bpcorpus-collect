@@ -10,6 +10,7 @@ import bpc_knihi_author_url_collect as makecsv
 csvlist = 'bpc_authors_v1.csv'
 apage = '0_author_page.html'
 csvResult = '0_links.csv'
+masterCsv = 'bpc_alllinks.csv'
 loc = './'
 
 with open(csvlist, 'r', encoding='utf-8-sig') as l:
@@ -23,11 +24,22 @@ for row in l[1:]:
     if row[15]:
         adict[row[0]] = {'name':row[1], 'path':row[15]}
 
+with open(masterCsv, 'w') as fw:
+    fw = csv.writer(fw, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    fw.writerow(['authorId', 'authorName', 'authorPath', 'linkId', 'blText', 'blHref', 'otherPersonName', 'otherPersonHref', 'workName', 'workHref'])
 
 for i,row in adict.items():
-    id = i
-    name = row['name']
-    folname = id+'_'+name
+    authorId = i
+    if len(str(authorId)) == 1:
+        authorId = '00'+str(authorId)
+    elif len(str(authorId)) == 2:
+        authorId = '0'+str(authorId)
+    else:
+        authorId = str(authorId)
+
+    authorName = row['name']
+    authorPath = row['path']
+    folname = authorId+'_'+authorName
 
     folder = os.path.join(loc, folname)
 
@@ -41,9 +53,16 @@ for i,row in adict.items():
         linkNum = 1
 
         for i,li in enumerate(soup.find_all('li')):
-            linkId = linkNum
-            res = str(li)
+            if len(str(linkNum)) == 1:
+                linkId = authorId+'_000'+str(linkNum)
+            elif len(str(linkNum)) == 2:
+                linkId = authorId+'_00'+str(linkNum)
+            elif len(str(linkNum)) == 3:
+                linkId = authorId+'_0'+str(linkNum)
+            elif len(str(linkNum)) == 4:
+                linkId = authorId+'_'+str(linkNum)
 
+            res = str(li)
             # текст в скобках
             blank = re.search('(?<=>)\s*\(.*\)(?=\s*<)', res)
             if blank:
@@ -88,6 +107,11 @@ for i,row in adict.items():
 
             linkInfo = [linkId, blText, blHref, otherPersonName, otherPersonHref, workName, workHref]
             allLinksInfo.append(linkInfo)
+
+            with open(masterCsv, 'a') as fw:
+                fw = csv.writer(fw, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                fw.writerow([authorId, authorName, authorPath, linkId, blText, blHref, otherPersonName, otherPersonHref, workName, workHref])
+
 
             linkNum += 1
 
