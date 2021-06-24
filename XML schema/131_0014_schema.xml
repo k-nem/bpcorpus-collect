@@ -1,0 +1,108 @@
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type='main'>Санет ("Замёрзла ноччу шпаркая крыніца...")</title>
+        <author>
+          <persName>
+            <forename>Максім</forename>
+            <surname>Багдановіч</surname>
+          </persName>
+        </author>
+      </titleStmt>
+      <sourceDesc>
+        <bibl type='onlineSource'>
+          <name>БЕЛАРУСКАЯ ПАЛІЧКА</name>
+          <idno type='url'>https://knihi.com/Maksim_Bahdanovic/Saniet_Zamiorzla_noccu_sparkaja_krynica.html</idno>
+          <bibl type='originalSource'>
+            <title>Лазарук, М.А. Беларуская літаратура: вучэб. дапам. для 8-га кл. устаноў агульнай сярэдняй адукацыі з беларус. і рус. мовамі навучання / М.А.Лазарук, В.І.Русілка, І.М.Слесарава. – Мінск: Нац. ін-т адукацыі, 2011.</title>
+            <date type='written'>1912</date>
+            <date type='print'>1912</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+      <profileDesc>
+        <textClass>
+          <form type='poetry'>Паэзія</form>
+          <genre type='poem'>Верш</genre>
+          <genre type='sonnet'>Санет</genre>
+        </textClass>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <head>Санет ("Замёрзла ноччу шпаркая крыніца...")</head>
+    </front>
+    <body>
+      <formal rhyme='AbbA|AbbA|ccD|eDe' metre='iambus'/>
+      <lg n='1' type='quatrain' rhyme='AbbA'>
+        <l n='1' met='-+|-+|-+|--|-+|-/' metre='iambus' feet='5'>
+          Замёрзла ноччу шпаркая крыніца;
+
+          <ana type='linguistic'>
+            <w pos='VERB' lemma='мерзнуць' msd='Past:Perf:Act:Fem:Sing'>замёрзла</w>
+            <w pos='ADV' lemma='ноччу'>ноччу</w>
+            <w pos='ADJ' lemma='шпаркая' msd='Nom:Fem:Sing'>шпаркая</w>
+            <w pos='NOUN' lemma='крыніца' msd='Nom:Fem:Sing:Inan'>крыніца</w>
+            <pc pos='PUNCT' lemma=';'>;</pc>
+          </ana>
+
+          <ana type='rhyme'>
+            Замёрзла ноччу шпаркая крыніца<rhyme label='A' type='fem'>крыніца</rhyme>;
+          </ana>
+
+          <ana type='rhythm'>
+            <seg type='foot'>
+              <seg type='syll'>За</seg>
+              <seg type='syll' stress='ictus'>мёрз</seg>
+            </seg>
+            <seg type='foot'>
+              <seg type='syll'>ла</seg>
+              <seg type='syll' stress='ictus'>ноч</seg>
+            </seg>
+            <seg type='foot'>
+              <seg type='syll'>чу</seg>
+              <seg type='syll' stress='ictus'>шпар</seg>
+            </seg>
+            <seg type='pyrrhic'>
+              <seg type='syll'>ка</seg>
+              <seg type='syll'>я</seg>
+            </seg>
+            <seg type='foot'>
+              <seg type='syll'>кры</seg>
+              <seg type='syll' stress='ictus'>ні</seg>
+            </seg>
+            <seg type='clausula'>
+              <seg type='syll'>ца</seg>
+            </seg>
+          </ana>
+        </l>
+        <l n='2' met='-+|-+|-+|--|-+/'>Твая пара, зімовая нуда!</l>
+        <l n='3' met='-+|-+|-+|--|-+/'>Цяпер няма ўжо руху ні сляда,</l>
+        <l n='4' met='-+|-+|-+|-+|-+|-/'>I нават зверху слоем снег лажыцца.</l>
+      </lg>
+
+      <lg n='2' type='quatrain' rhyme='AbbA'>
+        <l n='5' met='-+|-+|-+|-+|-/'>Ды ўсё дармо, бо там, пад ім, струіцца</l>
+        <l n='6' met='-+|--|-+|--|-+/'>Магутная, жывучая вада.</l>
+        <l n='7' met='-+|-+|-+|--|-+/'>Чакай! Яе йшчэ прыйдзе чарада!</l>
+        <l n='8' met='-+|-+|-+|-+|-+|-+|-/'>Здалее хваляў хор на вольны свет прабіцца.</l>
+      </lg>
+
+      <lg n='3' type='stanza' rhyme='ccDeDe'>
+        <lg type='tercet' rhyme='ccD'>
+          <l n='9' met='-+|-+|-+|--|-+/'>Прыклаў я гэты сімвал да сябе,</l>
+          <l n='10' met='-+|--|-+|--|-+/'>Схіліўшыся ў надсільнай барацьбе,</l>
+          <l n='11' met='--|-+|-+|-+|-+|-/'>I разгадаў прыроды роднай словы.</l>
+        </lg>
+
+        <lg n='4' type='tercet' rhyme='eDe'>
+          <l n='12' met='+-|-+|-+|-+|-+/'>Як — прамаўчу, бо кожны з вас — паэт.</l>
+          <l n='13' met='-+|-+|-+|-+|-+|-/'>Рассейце ж самі лёгкі змрок прамовы,</l>
+          <l n='14' met='-+|-+|-+|-+|-+/'>Сваёй душы туды праліце свет!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

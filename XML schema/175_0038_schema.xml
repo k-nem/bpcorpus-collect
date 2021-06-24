@@ -1,0 +1,110 @@
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type='main'>"Быў. Ёсць. Буду..."</title>
+        <author>
+          <persName>
+            <forename>Уладзімір</forename>
+            <surname>Караткевіч</surname>
+          </persName>
+        </author>
+      </titleStmt>
+      <sourceDesc>
+        <bibl type='onlineSource'>
+          <name>БЕЛАРУСКАЯ ПАЛІЧКА</name>
+          <idno type='url'>https://knihi.com/Uladzimir_Karatkievic/Byu_Josc_Budu.html</idno>
+          <bibl type='originalSource'>
+            <date type='written'>09.12.1976</date>
+            <date type='print'>1984</date>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+      <profileDesc>
+        <textClass>
+          <form type='poetry'>Паэзія</form>
+          <genre type='poem'>Верш</genre>
+        </textClass>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <head>"Быў. Ёсць. Буду..."</head>
+    </front>
+    <body>
+      <formal rhyme='ABCBC|CDCD|EFGFG|HIHJKI|LMLM|NONPO|QRSQR' metre='mixed'/>
+      <lg n='1' type='quintain' rhyme='ABCBC'>
+        <l n='1' met='+++-/'>
+          Быў. Ёсць. Буду.
+          <ana type='linguistic'>
+            <w pos='VERB' lemma='быць' msd='Past:Imp:Act:Masc:Sing'>быў</w>
+            <pc pos='PUNCT' lemma='.'>.</pc>
+            <w pos='VERB' lemma='быць' msd='Pres:Imp:Act'>ёсць</w>
+            <pc pos='PUNCT' lemma='.'>.</pc>
+            <w pos='VERB' lemma='быць' msd='p1:Fut:Imp:Act:Masc:Sing'>буду</w>
+            <pc pos='PUNCT' lemma='.'>.</pc>
+          </ana>
+
+          <ana type='rhythm'>
+            <seg type='syll' stress='ictus'>Быў</seg>
+            <seg type='syll' stress='ictus'>Ёсць</seg>
+            <seg type='syll' stress='ictus'>Бу</seg>
+            <seg type='syll'>ду</seg>
+          </ana>
+        </l>
+        <l n='2' met='-+--+--+-/'>Таму, што заўжды, як пракляты,</l>
+        <l n='3' met='-+-+--+-/'>Жыву бяздоннай трывогай,</l>
+        <l n='4' met='-+-+-+-+-/'>Таму, што сэрца маё распята</l>
+        <l n='5' met='-+-+--+-/'>За ўсе мільярды двухногіх.</l>
+      </lg>
+
+      <lg n='2' type='quatrain' rhyme='CDCD'>
+        <l n='6' met='-+--+--+--+-/'>За ўсіх, хто ўздымае цяжкія разоры,</l>
+        <l n='7' met='+-+-+--+-/'>Хто ў гарачым пекле металу,</l>
+        <l n='8' met='-++-+--+--+-/'>За ўсіх, хто змагаецца з небам і морам,</l>
+        <l n='9' met='--+--+--+-/'>За жывых і за тых, што сканалі.</l>
+      </lg>
+
+      <lg n='3' type='quintain' rhyme='EFGFG'>
+        <l n='10' met='-+--+-+-/'>За ўсіх, хто крывёю піша</l>
+        <l n='11' met='-+-/'>Ў нязгодзе</l>
+        <l n='12' met='+-+--+-/'>З рабства подлай дарогай,</l>
+        <l n='13' met='--+-+--+-+-/'>Хто за Край Свой Родны, за ўсе Народы</l>
+        <l n='14' met='-+-+--+-/'>Паўстане нават на Бога.</l>
+      </lg>
+
+      <lg n='4' type='sestet' rhyme='HIHJKI'>
+        <l n='15' met='-+-+--+--+-/'>За ўсіх, хто курчыцца ў полымі вёсак,</l>
+        <l n='16' met='--+--+--+-/'>Хто ратуе краіну ад краху,</l>
+        <l n='17' met='-+--+--+---+-/'>За ўсіх, хто бясстрашна глядзіць у нябёсы</l>
+        <l n='18' met='--+-/'>З барыкады,</l>
+        <l n='19' met='+-/'>З пушчы</l>
+        <l n='20' met='-+-/'>І з плахі.</l>
+      </lg>
+
+      <lg n='5' type='quatrain' rhyme='LMLM'>
+        <l n='21' met='--+--+-+--+-/'>Хто са смерцю гаворыць з вока на вока,</l>
+        <l n='22' met='-+-+--+-/'>З яе усмешкаю ветлай,</l>
+        <l n='23' met='--+--+--+-/'>І ўсё ж узводзіць — нясцерпна далёкі —</l>
+        <l n='24' met='+--+--+-/'>Храм наш агульны і светлы.</l>
+      </lg>
+
+      <lg n='6' type='quintain' rhyme='NONPO'>
+        <l n='25' met='--+-+--+--+-/'>А калі ён горда заззяе ў зеніце —</l>
+        <l n='26' met='--+--+-+-/'>Непарушны — ўзнясецца ў неба,</l>
+        <l n='27' met='--+--+-+--+-/'>Вы з распятага сэрца кроплю вазьміце.</l>
+        <l n='28' met='-+--/'>Апошнюю.</l>
+        <l n='29' met='+--+-/'>Болей не трэба.</l>
+      </lg>
+
+      <lg n='7' type='quintain' rhyme='QRSQR'>
+        <l n='30' met='--+-++-+--+-/'>І няхай яна збоку, недзе на ганку,</l>
+        <l n='31' met='--+--+-+-/'>Дагарае й дзяцей не страшыць</l>
+        <l n='32' met='--+--+-/'>На граніце любові,</l>
+        <l n='33' met='--+--+-/'>На граніце світанку,</l>
+        <l n='34' met='--+-+--+-/'>На граніце велічы вашай.</l>
+      </lg>
+    </body>
+  </text>
+</TEI>
