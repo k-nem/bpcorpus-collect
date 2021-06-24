@@ -32,7 +32,7 @@
 31;Максім Багдановіч;1891-1917;1891;1917;m;!!!;;TRUE;https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D1%96%D0%BC_%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D1%96%D1%87 ;;https://knihi.com/Maksim_Bahdanovic/;http://vershy.ru/category/maks%D1%96m-bagdanov%D1%96ch;;;Maksim_Bahdanovic
 32;Алесь Гарун;1887-1920;1887;1920;m;!;;TRUE;https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D1%81%D1%8C_%D0%93%D0%B0%D1%80%D1%83%D0%BD ;;https://knihi.com/Ales_Harun/;http://vershy.ru/category/ales-garun;;;Ales_Harun
 33;Альберт Паўловіч;1875-1951;1875;1951;m;;;;https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D0%B0%D1%9E%D0%BB%D0%BE%D0%B2%D1%96%D1%87 ;;;;;;
-34;Дзед Доніс;?;?;;m;;;;;;;;;;
+34;Дзед Доніс;?;?;;;;;;;;;;;;
 35;Гальяш Леўчык;1880-1944;1880;1944;m;;;;https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D1%8C%D1%8F%D1%88_%D0%9B%D0%B5%D1%9E%D1%87%D1%8B%D0%BA ;;;;;;
 36;Уладзіслаў Галубок;1882-1937;1882;1937;m;!;;TRUE;https://be.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D1%81%D0%BB%D0%B0%D1%9E_%D0%93%D0%B0%D0%BB%D1%83%D0%B1%D0%BE%D0%BA ;;https://knihi.com/Uladzislau_Halubok/;;;;Uladzislau_Halubok
 37;Вацлаў Ластоўскі;1883-1937;1883;1937;m;!;;;https://be.wikipedia.org/wiki/%D0%92%D0%B0%D1%86%D0%BB%D0%B0%D1%9E_%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0%D0%B2%D1%96%D1%87_%D0%9B%D0%B0%D1%81%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D1%96 ;;;;;;
@@ -84,10 +84,10 @@
 83;Пятрусь Броўка;1905-1980;1905;1980;m;!!!;TRUE;TRUE;https://be.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D1%80%D1%83%D1%81%D1%8C_%D0%91%D1%80%D0%BE%D1%9E%D0%BA%D0%B0 ;;https://knihi.com/Piatrus_Brouka/;http://vershy.ru/category/pyatrus-bro%D1%9Eka;;;Piatrus_Brouka
 84;Пятро Глебка;1905-1969;1905;1969;m;!;;TRUE;https://be.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D1%80%D0%BE_%D0%93%D0%BB%D0%B5%D0%B1%D0%BA%D0%B0 ;;https://knihi.com/Piatro_Hlebka/;http://vershy.ru/category/pyatro-glebka;;;Piatro_Hlebka
 85;Янка Бобрык;1905-1942;1905;1942;m;;;;https://be.wikipedia.org/wiki/%D0%AF%D0%BD%D0%BA%D0%B0_%D0%91%D0%BE%D0%B1%D1%80%D1%8B%D0%BA ;;;;;;
-86;Віктар Казлоўскі;;;;m;;;;;;;;;;
+86;Віктар Казлоўскі;;;;;;;;;;;;;;
 87;Янка Туміловіч;1905-1938;1905;1938;m;;;;https://be.wikipedia.org/wiki/%D0%AF%D0%BD%D0%BA%D0%B0_%D0%A2%D1%83%D0%BC%D1%96%D0%BB%D0%BE%D0%B2%D1%96%D1%87 ;;;;;;
 88;Міхась Васілёк;1905-1960;1905;1960;m;;;;https://be.wikipedia.org/wiki/%D0%9C%D1%96%D1%85%D0%B0%D1%81%D1%8C_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D1%91%D0%BA ;;;;;;
-89;Ізраіль Плаўнік;;;;m;;;;;;;;;;
+89;Ізраіль Плаўнік;;;;;;;;;;;;;;
 90;Андрэй Александровіч;1906-1963;1906;1963;m;;;;https://be.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D1%8D%D0%B9_%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%B2%D1%96%D1%87_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%96%D1%87 ;;;;;;
 91;Сяргей Фамін;1906-1941;1906;1941;m;;;;https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%A4%D0%B0%D0%BC%D1%96%D0%BD ;;;;;;
 92;Сяргей Новік-Пяюн;1906-1994;1906;1994;m;;;;https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%BE%D0%B2%D1%96%D0%BA-%D0%9F%D1%8F%D1%8E%D0%BD ;;;;;;
@@ -99,7 +99,7 @@
 98;Яўгенія Пфляўмбаўм;1908-1996;1908;1996;f;;;;https://be.wikipedia.org/wiki/%D0%AF%D1%9E%D0%B3%D0%B5%D0%BD%D1%96%D1%8F_%D0%AD%D1%80%D0%B3%D0%B0%D1%80%D0%B4%D0%B0%D1%9E%D0%BD%D0%B0_%D0%9F%D1%84%D0%BB%D1%8F%D1%9E%D0%BC%D0%B1%D0%B0%D1%9E%D0%BC ;;;;;;
 99;Алесь Мілюць;1908-1944;1908;1944;m;;;;https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D1%81%D1%8C_%D0%9C%D1%96%D0%BB%D1%8E%D1%86%D1%8C ;;;;;;
 100;Міхась Багун;1908-1938;1908;1938;m;;;;https://be.wikipedia.org/wiki/%D0%9C%D1%96%D1%85%D0%B0%D1%81%D1%8C_%D0%91%D0%B0%D0%B3%D1%83%D0%BD ;;;;;;
-101;Мікола Зосім;;;;m;;;;;;;;;;
+101;Мікола Зосім;;;;;;;;;;;;;;
 102;Пятрусь Граніт;1909-1980;1909;1980;m;;;;https://be.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D1%80%D1%83%D1%81%D1%8C_%D0%93%D1%80%D0%B0%D0%BD%D1%96%D1%82 ;;;;;;
 103;Сяргей Дарожны;1909-1943;1909;1943;m;;;;https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%9C%D1%96%D1%85%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%D0%94%D0%B0%D1%80%D0%BE%D0%B6%D0%BD%D1%8B ;;;;;;
 104;Зінаіда Бандарына;1909-1959;1909;1959;f;;;;https://be.wikipedia.org/wiki/%D0%97%D1%96%D0%BD%D0%B0%D1%96%D0%B4%D0%B0_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%9E%D0%BD%D0%B0_%D0%91%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%8B%D0%BD%D0%B0 ;;;;;;
@@ -190,12 +190,12 @@
 189;Віктар Ракаў;1935-2000;1935;2000;m;;;;https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%82%D0%B0%D1%80_%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D1%96%D1%87_%D0%A0%D0%B0%D0%BA%D0%B0%D1%9E ;;;;;;
 190;Мікола Кусянкоў;1935-;1935;;m;;;;https://be.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9A%D1%83%D1%81%D1%8F%D0%BD%D0%BA%D0%BE%D1%9E ;;;;;;
 191;Рыгор Барадулін;1935-1914;1935;1914;m;!!!;TRUE;TRUE;https://be.wikipedia.org/wiki/%D0%A0%D1%8B%D0%B3%D0%BE%D1%80_%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%B2%D1%96%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%B4%D1%83%D0%BB%D1%96%D0%BD ;;https://knihi.com/Ryhor_Baradulin/;http://vershy.ru/category/rygor-baradul%D1%96n;;;Ryhor_Baradulin
-192;Уладзімір Лапковіч;;;;m;;;;;;;;;;
+192;Уладзімір Лапковіч;;;;;;;;;;;;;;
 193;Васіль Зуёнак;1935-;1935;;m;!;;TRUE;https://be.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D1%96%D0%BB%D1%8C_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%97%D1%83%D1%91%D0%BD%D0%B0%D0%BA ;;https://knihi.com/Vasil_Zujonak/;http://vershy.ru/category/ales-zvonak;;;Vasil_Zujonak
 194;Іван Летка;1935-1999;1935;1999;m;;;;https://be.wikipedia.org/wiki/%D0%86%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%87_%D0%9B%D0%B5%D1%82%D0%BA%D0%B0 ;;;;;;
 195;Уладзімір Паўлаў;1935-;1935;;m;;;;;;;;;;
 196;Янка Сіпакоў;1936-2011;1936;2011;m;!!!;;TRUE;https://be.wikipedia.org/wiki/%D0%AF%D0%BD%D0%BA%D0%B0_%D0%A1%D1%96%D0%BF%D0%B0%D0%BA%D0%BE%D1%9E ;;https://knihi.com/Janka_Sipakou/;http://vershy.ru/category/yanka-sipakou;;;Janka_Sipakou
-197;Раман Гармола;;;;m;;;;;;;;;;
+197;Раман Гармола;;;;;;;;;;;;;;
 198;Міхась Рудкоўскі;1936-1991;1936;1991;m;;;;https://be.wikipedia.org/wiki/%D0%9C%D1%96%D1%85%D0%B0%D1%96%D0%BB_%D0%9C%D1%96%D1%85%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%D0%A0%D1%83%D0%B4%D0%BA%D0%BE%D1%9E%D1%81%D0%BA%D1%96 ;;;;;;
 199;Яўген Міклашэўскі;1936-;1936;;m;;;;https://be.wikipedia.org/wiki/%D0%AF%D1%9E%D0%B3%D0%B5%D0%BD_%D0%9C%D1%96%D0%BA%D0%BB%D0%B0%D1%88%D1%8D%D1%9E%D1%81%D0%BA%D1%96 ;;;;;;
 200;Яўген Крупенька;1936-1990;1936;1990;m;;;;https://be.wikipedia.org/wiki/%D0%AF%D1%9E%D0%B3%D0%B5%D0%BD_%D0%9C%D1%96%D1%85%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%D0%9A%D1%80%D1%83%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0 ;;;;;;
@@ -292,5 +292,5 @@
 291;Алесь Аркуш;1960-;1960;;m;;;;https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D1%81%D1%8C_%D0%90%D1%80%D0%BA%D1%83%D1%88;;;;;;
 292;Галіна Булыка;1960-;1960;;m;;;;https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D1%8B%D0%BA%D0%B0,_%D0%93%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0;;;;;;
 293;Алесь Бадак;1966-;1966;;m;;;;https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D1%81%D1%8C_%D0%91%D0%B0%D0%B4%D0%B0%D0%BA;;;;;;
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
+;;;;;!!!;29;8;79;;;;;;;
+;;;;;!;56;;;;;;;;;
