@@ -1,5 +1,4 @@
-# Корпус беларускай паэзіі XVIII–XX ст. | Збор зыходных тэкстаў і праект корпуса
-A Corpus of Belarusian Poetry of 18-20 c.| Initial data collection & corpus design
+# A Corpus of Belarusian Poetry of 18-20 c.| Initial data collection & corpus design
 
 ## [Website](https://bpc.knem.cc)
 
