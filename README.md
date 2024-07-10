@@ -7,7 +7,6 @@
 ### Project repositories:
 - [Corpus repository](https://github.com/k-nem/bpcorpus)
 - __Data collection and corpus design__ <- You are here
-- [Web interface source code](https://github.com/k-nem/bpcorpus-app)
 
 -----
 
